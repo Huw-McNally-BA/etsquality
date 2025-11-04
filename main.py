@@ -3,19 +3,14 @@ import numpy as np
 
 def main():
     print("Hello from etsquality!")
-    pd.set_option('display.max_columns', None)
-    our_data = read_xl_skip_rows("our_data.xlsm", number_of_rows=5, range='C:DP')
-    alex_data = read_xl_skip_rows("alex_data.xlsb", number_of_rows=4, range='A:DO')
+    #pd.set_option('display.max_columns', None)
+    alex_data = read_xl_skip_rows("alex_data.xlsb", number_of_rows=4, range='B:DN')
+    our_data = read_xl_skip_rows("our_data.xlsm", number_of_rows=5, range='C:DO')
 
-    our_data.columns = our_data.columns.str.lower().str.replace(' ', '_')
-    alex_data.columns = alex_data.columns.str.lower().str.replace(' ', '_')
+    alex_data.columns = our_data.columns.str.lower().str.replace(' ', '_')
+    our_data.columns = alex_data.columns.str.lower().str.replace(' ', '_')
 
-
-    #print(our_data.head())
-    print("\n", "-"*80, "\n")
-    #print(alex_data.head())
-
-    compare_datasets(our_data, alex_data)
+    compare_datasets(alex_data, our_data)
 
     return 0
 
@@ -30,22 +25,33 @@ def compare_datasets(df_original, df_new):
     df_original.sort_values(by=id_col, inplace=True)
     df_new.sort_values(by=id_col, inplace=True)
 
+    df_original.sort_index(axis=1, inplace=True)
+    df_new.sort_index(axis=1, inplace=True)
+
     # Compare dataframes col by col then row by row
     print("Original shape:", df_original.shape)
     print("New shape:", df_new.shape)
 
-    origin_column = df_original.columns.tolist()
-    new_column = df_new.columns.tolist()
+    df_original.rename(columns={"x.1": "x"}, inplace=True)
+    df_new.rename(columns={"x.1": "x"}, inplace=True)
+
+
+    origin_columns = df_original.columns.tolist()
+    new_columns = df_new.columns.tolist()
+
+    print(origin_columns)
+    print("\n", "-"*40, "\n")
+    print(new_columns)
 
     # compare column lists
-    different_columns = list(set(origin_column) - set(new_column))
+    different_columns = list(set(origin_columns) - set(new_columns))
+    different_columns_other = list(set(new_columns) - set(origin_columns))
 
-    print("Different Columns:", different_columns)
+    print("Different Columns:", different_columns, different_columns_other)
 
     #df_new.drop(columns='x.1', inplace=True)
 
     print((df_original == df_new).all(axis=1))
-
 
     pass
 
