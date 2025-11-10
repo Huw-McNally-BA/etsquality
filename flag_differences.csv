@@ -1,0 +1,530 @@
+id,flag,original,new,oaw_id_x,cs_applied_x,orig_eu_outer_regions_ets_flag,orig_dom,orig_gcd+95,orig_corsia_(old),orig_swiss,orig_combined_ets_flag,orig_circular,orig_uk_ets_flag,orig_eu_ets_(old),orig_swiss_ets_flag,orig_outer,orig_eu_ets_flag,oaw_id_y,cs_applied_y,new_eu_outer_regions_ets_flag,new_dom,new_gcd+95,new_corsia_(old),new_swiss,new_combined_ets_flag,new_circular,new_uk_ets_flag,new_eu_ets_(old),new_swiss_ets_flag,new_outer,new_eu_ets_flag
+33727359,eu_outer_regions_ets_flag,N,Y,33727359.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33727359.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33727410,eu_outer_regions_ets_flag,N,Y,33727410.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33727410.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33727414,eu_outer_regions_ets_flag,N,Y,33727414.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33727414.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33727416,eu_outer_regions_ets_flag,N,Y,33727416.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33727416.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33727775,eu_outer_regions_ets_flag,N,Y,33727775.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33727775.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33728432,eu_outer_regions_ets_flag,N,Y,33728432.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33728432.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33731473,eu_outer_regions_ets_flag,N,Y,33731473.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33731473.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33731784,eu_outer_regions_ets_flag,N,Y,33731784.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33731784.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33731790,eu_outer_regions_ets_flag,N,Y,33731790.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33731790.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33731795,eu_outer_regions_ets_flag,N,Y,33731795.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33731795.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33731797,eu_outer_regions_ets_flag,N,Y,33731797.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33731797.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33731950,eu_outer_regions_ets_flag,N,Y,33731950.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33731950.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33738850,eu_outer_regions_ets_flag,N,Y,33738850.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33738850.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33738852,eu_outer_regions_ets_flag,N,Y,33738852.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33738852.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33738865,eu_outer_regions_ets_flag,N,Y,33738865.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33738865.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33738870,eu_outer_regions_ets_flag,N,Y,33738870.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33738870.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33738884,eu_outer_regions_ets_flag,N,Y,33738884.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33738884.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33739106,eu_outer_regions_ets_flag,N,Y,33739106.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33739106.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33739180,eu_outer_regions_ets_flag,N,Y,33739180.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33739180.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33743185,eu_outer_regions_ets_flag,N,Y,33743185.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33743185.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33743373,eu_outer_regions_ets_flag,N,Y,33743373.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33743373.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33743383,eu_outer_regions_ets_flag,N,Y,33743383.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33743383.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33743384,eu_outer_regions_ets_flag,N,Y,33743384.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33743384.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33743487,eu_outer_regions_ets_flag,N,Y,33743487.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33743487.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33743663,eu_outer_regions_ets_flag,N,Y,33743663.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33743663.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33744392,eu_outer_regions_ets_flag,N,Y,33744392.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33744392.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33744491,eu_outer_regions_ets_flag,N,Y,33744491.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33744491.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33744494,eu_outer_regions_ets_flag,N,Y,33744494.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33744494.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33744551,eu_outer_regions_ets_flag,N,Y,33744551.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33744551.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33744558,eu_outer_regions_ets_flag,N,Y,33744558.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33744558.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33744560,eu_outer_regions_ets_flag,N,Y,33744560.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33744560.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33744576,eu_outer_regions_ets_flag,N,Y,33744576.0,1.BAW (Speedbird),N,N,2592.0,Y,N,N,N,N,N,N,N,N,33744576.0,1.BAW (SPEEDBIRD),Y,N,2592.0,Y,N,N,N,N,N,N,N,N
+33744767,eu_outer_regions_ets_flag,N,Y,33744767.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33744767.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33744852,eu_outer_regions_ets_flag,N,Y,33744852.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33744852.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33751344,eu_outer_regions_ets_flag,N,Y,33751344.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33751344.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33751356,eu_outer_regions_ets_flag,N,Y,33751356.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33751356.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33751587,eu_outer_regions_ets_flag,N,Y,33751587.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33751587.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33751589,eu_outer_regions_ets_flag,N,Y,33751589.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33751589.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33751706,eu_outer_regions_ets_flag,N,Y,33751706.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33751706.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33751711,eu_outer_regions_ets_flag,N,Y,33751711.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33751711.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33751713,eu_outer_regions_ets_flag,N,Y,33751713.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33751713.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33755536,eu_outer_regions_ets_flag,N,Y,33755536.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33755536.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33755898,eu_outer_regions_ets_flag,N,Y,33755898.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33755898.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33755931,eu_outer_regions_ets_flag,N,Y,33755931.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33755931.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33755938,eu_outer_regions_ets_flag,N,Y,33755938.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33755938.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33755944,eu_outer_regions_ets_flag,N,Y,33755944.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33755944.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33759761,eu_outer_regions_ets_flag,N,Y,33759761.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33759761.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33759910,eu_outer_regions_ets_flag,N,Y,33759910.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33759910.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33760025,eu_outer_regions_ets_flag,N,Y,33760025.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33760025.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33760029,eu_outer_regions_ets_flag,N,Y,33760029.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33760029.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33760031,eu_outer_regions_ets_flag,N,Y,33760031.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33760031.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33760311,eu_outer_regions_ets_flag,N,Y,33760311.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33760311.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33764188,eu_outer_regions_ets_flag,N,Y,33764188.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33764188.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33764202,eu_outer_regions_ets_flag,N,Y,33764202.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33764202.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33764280,eu_outer_regions_ets_flag,N,Y,33764280.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33764280.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33764286,eu_outer_regions_ets_flag,N,Y,33764286.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33764286.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33764291,eu_outer_regions_ets_flag,N,Y,33764291.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33764291.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33764316,eu_outer_regions_ets_flag,N,Y,33764316.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33764316.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33768729,eu_outer_regions_ets_flag,N,Y,33768729.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33768729.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33768733,eu_outer_regions_ets_flag,N,Y,33768733.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33768733.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33768783,eu_outer_regions_ets_flag,N,Y,33768783.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33768783.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33768795,eu_outer_regions_ets_flag,N,Y,33768795.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33768795.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33768937,eu_outer_regions_ets_flag,N,Y,33768937.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33768937.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33768939,eu_outer_regions_ets_flag,N,Y,33768939.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33768939.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33768945,eu_outer_regions_ets_flag,N,Y,33768945.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33768945.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33772894,eu_outer_regions_ets_flag,N,Y,33772894.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33772894.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33772896,eu_outer_regions_ets_flag,N,Y,33772896.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33772896.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33772993,eu_outer_regions_ets_flag,N,Y,33772993.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33772993.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33773069,eu_outer_regions_ets_flag,N,Y,33773069.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33773069.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33773183,eu_outer_regions_ets_flag,N,Y,33773183.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33773183.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33773239,eu_outer_regions_ets_flag,N,Y,33773239.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33773239.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33774762,eu_outer_regions_ets_flag,N,Y,33774762.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33774762.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33776435,eu_outer_regions_ets_flag,N,Y,33776435.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33776435.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33777050,eu_outer_regions_ets_flag,N,Y,33777050.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33777050.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33777052,eu_outer_regions_ets_flag,N,Y,33777052.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33777052.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33777171,eu_outer_regions_ets_flag,N,Y,33777171.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33777171.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33777182,eu_outer_regions_ets_flag,N,Y,33777182.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33777182.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33777184,eu_outer_regions_ets_flag,N,Y,33777184.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33777184.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33777432,eu_outer_regions_ets_flag,N,Y,33777432.0,1.BAW (Speedbird),N,N,2592.0,Y,N,N,N,N,N,N,N,N,33777432.0,1.BAW (SPEEDBIRD),Y,N,2592.0,Y,N,N,N,N,N,N,N,N
+33777512,eu_outer_regions_ets_flag,N,Y,33777512.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33777512.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33781025,eu_outer_regions_ets_flag,N,Y,33781025.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33781025.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33781389,eu_outer_regions_ets_flag,N,Y,33781389.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33781389.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33781391,eu_outer_regions_ets_flag,N,Y,33781391.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33781391.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33781554,eu_outer_regions_ets_flag,N,Y,33781554.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33781554.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33781626,eu_outer_regions_ets_flag,N,Y,33781626.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33781626.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33781651,eu_outer_regions_ets_flag,N,Y,33781651.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33781651.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33781654,eu_outer_regions_ets_flag,N,Y,33781654.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33781654.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33785777,eu_outer_regions_ets_flag,N,Y,33785777.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33785777.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33785783,eu_outer_regions_ets_flag,N,Y,33785783.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33785783.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33785792,eu_outer_regions_ets_flag,N,Y,33785792.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33785792.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33785868,eu_outer_regions_ets_flag,N,Y,33785868.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33785868.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33785994,eu_outer_regions_ets_flag,N,Y,33785994.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33785994.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33790002,eu_outer_regions_ets_flag,N,Y,33790002.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33790002.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33790007,eu_outer_regions_ets_flag,N,Y,33790007.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33790007.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33790009,eu_outer_regions_ets_flag,N,Y,33790009.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33790009.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33790164,eu_outer_regions_ets_flag,N,Y,33790164.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33790164.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33790228,eu_outer_regions_ets_flag,N,Y,33790228.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33790228.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33790288,eu_outer_regions_ets_flag,N,Y,33790288.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33790288.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33793996,eu_outer_regions_ets_flag,N,Y,33793996.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33793996.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33794171,eu_outer_regions_ets_flag,N,Y,33794171.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33794171.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33794545,eu_outer_regions_ets_flag,N,Y,33794545.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33794545.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33794550,eu_outer_regions_ets_flag,N,Y,33794550.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33794550.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33794554,eu_outer_regions_ets_flag,N,Y,33794554.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33794554.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33794593,eu_outer_regions_ets_flag,N,Y,33794593.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33794593.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33798473,eu_outer_regions_ets_flag,N,Y,33798473.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33798473.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33798511,eu_outer_regions_ets_flag,N,Y,33798511.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33798511.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33798516,eu_outer_regions_ets_flag,N,Y,33798516.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33798516.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33798517,eu_outer_regions_ets_flag,N,Y,33798517.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33798517.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33798822,eu_outer_regions_ets_flag,N,Y,33798822.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33798822.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33798860,eu_outer_regions_ets_flag,N,Y,33798860.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33798860.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33798894,eu_outer_regions_ets_flag,N,Y,33798894.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33798894.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33802795,eu_outer_regions_ets_flag,N,Y,33802795.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33802795.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33802822,eu_outer_regions_ets_flag,N,Y,33802822.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33802822.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33802835,eu_outer_regions_ets_flag,N,Y,33802835.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33802835.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33803115,eu_outer_regions_ets_flag,N,Y,33803115.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33803115.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33803150,eu_outer_regions_ets_flag,N,Y,33803150.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33803150.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33803160,eu_outer_regions_ets_flag,N,Y,33803160.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33803160.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33803981,eu_outer_regions_ets_flag,N,Y,33803981.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33803981.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33803986,eu_outer_regions_ets_flag,N,Y,33803986.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33803986.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33803989,eu_outer_regions_ets_flag,N,Y,33803989.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33803989.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33803990,eu_outer_regions_ets_flag,N,Y,33803990.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33803990.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33804214,eu_outer_regions_ets_flag,N,Y,33804214.0,1.BAW (Speedbird),N,N,2592.0,Y,N,N,N,N,N,N,N,N,33804214.0,1.BAW (SPEEDBIRD),Y,N,2592.0,Y,N,N,N,N,N,N,N,N
+33804216,eu_outer_regions_ets_flag,N,Y,33804216.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33804216.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33804218,eu_outer_regions_ets_flag,N,Y,33804218.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33804218.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33804354,eu_outer_regions_ets_flag,N,Y,33804354.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33804354.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33804356,eu_outer_regions_ets_flag,N,Y,33804356.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33804356.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33807924,eu_outer_regions_ets_flag,N,Y,33807924.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33807924.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33808037,eu_outer_regions_ets_flag,N,Y,33808037.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33808037.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33808041,eu_outer_regions_ets_flag,N,Y,33808041.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33808041.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33808045,eu_outer_regions_ets_flag,N,Y,33808045.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33808045.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33808251,eu_outer_regions_ets_flag,N,Y,33808251.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33808251.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33808316,eu_outer_regions_ets_flag,N,Y,33808316.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33808316.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33809142,eu_outer_regions_ets_flag,N,Y,33809142.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33809142.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33815314,eu_outer_regions_ets_flag,N,Y,33815314.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33815314.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33815590,eu_outer_regions_ets_flag,N,Y,33815590.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33815590.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33815596,eu_outer_regions_ets_flag,N,Y,33815596.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33815596.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33815751,eu_outer_regions_ets_flag,N,Y,33815751.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33815751.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33815848,eu_outer_regions_ets_flag,N,Y,33815848.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33815848.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33816476,eu_outer_regions_ets_flag,N,Y,33816476.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33816476.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33816500,eu_outer_regions_ets_flag,N,Y,33816500.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33816500.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33816501,eu_outer_regions_ets_flag,N,Y,33816501.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33816501.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33816849,eu_outer_regions_ets_flag,N,Y,33816849.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33816849.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33816854,eu_outer_regions_ets_flag,N,Y,33816854.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33816854.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33816856,eu_outer_regions_ets_flag,N,Y,33816856.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33816856.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33823946,eu_outer_regions_ets_flag,N,Y,33823946.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33823946.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33823950,eu_outer_regions_ets_flag,N,Y,33823950.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33823950.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33824005,eu_outer_regions_ets_flag,N,Y,33824005.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33824005.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33824011,eu_outer_regions_ets_flag,N,Y,33824011.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33824011.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33824015,eu_outer_regions_ets_flag,N,Y,33824015.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33824015.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33824018,eu_outer_regions_ets_flag,N,Y,33824018.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33824018.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33828137,eu_outer_regions_ets_flag,N,Y,33828137.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33828137.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33828438,eu_outer_regions_ets_flag,N,Y,33828438.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33828438.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33828440,eu_outer_regions_ets_flag,N,Y,33828440.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33828440.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33828442,eu_outer_regions_ets_flag,N,Y,33828442.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33828442.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33828471,eu_outer_regions_ets_flag,N,Y,33828471.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33828471.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33828473,eu_outer_regions_ets_flag,N,Y,33828473.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33828473.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33828644,eu_outer_regions_ets_flag,N,Y,33828644.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33828644.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33832618,eu_outer_regions_ets_flag,N,Y,33832618.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33832618.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33832619,eu_outer_regions_ets_flag,N,Y,33832619.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33832619.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33832791,eu_outer_regions_ets_flag,N,Y,33832791.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33832791.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33833010,eu_outer_regions_ets_flag,N,Y,33833010.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33833010.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33833104,eu_outer_regions_ets_flag,N,Y,33833104.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33833104.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33833116,eu_outer_regions_ets_flag,N,Y,33833116.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33833116.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33833723,eu_outer_regions_ets_flag,N,Y,33833723.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33833723.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33833727,eu_outer_regions_ets_flag,N,Y,33833727.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33833727.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33833748,eu_outer_regions_ets_flag,N,Y,33833748.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33833748.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33833754,eu_outer_regions_ets_flag,N,Y,33833754.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33833754.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33833758,eu_outer_regions_ets_flag,N,Y,33833758.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33833758.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33833759,eu_outer_regions_ets_flag,N,Y,33833759.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33833759.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33834179,eu_outer_regions_ets_flag,N,Y,33834179.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33834179.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33834187,eu_outer_regions_ets_flag,N,Y,33834187.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33834187.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33837213,eu_outer_regions_ets_flag,N,Y,33837213.0,1.BAW (Speedbird),N,N,2592.0,Y,N,N,N,N,N,N,N,N,33837213.0,1.BAW (SPEEDBIRD),Y,N,2592.0,Y,N,N,N,N,N,N,N,N
+33837852,eu_outer_regions_ets_flag,N,Y,33837852.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33837852.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33837922,eu_outer_regions_ets_flag,N,Y,33837922.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33837922.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33837924,eu_outer_regions_ets_flag,N,Y,33837924.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33837924.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33837967,eu_outer_regions_ets_flag,N,Y,33837967.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33837967.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33837968,eu_outer_regions_ets_flag,N,Y,33837968.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33837968.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33838102,eu_outer_regions_ets_flag,N,Y,33838102.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33838102.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33838212,eu_outer_regions_ets_flag,N,Y,33838212.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33838212.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33845319,eu_outer_regions_ets_flag,N,Y,33845319.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33845319.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33845502,eu_outer_regions_ets_flag,N,Y,33845502.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33845502.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33845509,eu_outer_regions_ets_flag,N,Y,33845509.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33845509.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33845516,eu_outer_regions_ets_flag,N,Y,33845516.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33845516.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33845583,eu_outer_regions_ets_flag,N,Y,33845583.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33845583.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33849468,eu_outer_regions_ets_flag,N,Y,33849468.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33849468.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33849630,eu_outer_regions_ets_flag,N,Y,33849630.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33849630.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33849780,eu_outer_regions_ets_flag,N,Y,33849780.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33849780.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33849783,eu_outer_regions_ets_flag,N,Y,33849783.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33849783.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33849786,eu_outer_regions_ets_flag,N,Y,33849786.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33849786.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33849971,eu_outer_regions_ets_flag,N,Y,33849971.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33849971.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33853733,eu_outer_regions_ets_flag,N,Y,33853733.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33853733.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33853894,eu_outer_regions_ets_flag,N,Y,33853894.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33853894.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33853899,eu_outer_regions_ets_flag,N,Y,33853899.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33853899.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33853903,eu_outer_regions_ets_flag,N,Y,33853903.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33853903.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33853904,eu_outer_regions_ets_flag,N,Y,33853904.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33853904.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33853925,eu_outer_regions_ets_flag,N,Y,33853925.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33853925.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33858282,eu_outer_regions_ets_flag,N,Y,33858282.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33858282.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33858288,eu_outer_regions_ets_flag,N,Y,33858288.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33858288.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33858331,eu_outer_regions_ets_flag,N,Y,33858331.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33858331.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33858402,eu_outer_regions_ets_flag,N,Y,33858402.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33858402.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33858404,eu_outer_regions_ets_flag,N,Y,33858404.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33858404.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33858465,eu_outer_regions_ets_flag,N,Y,33858465.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33858465.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33858505,eu_outer_regions_ets_flag,N,Y,33858505.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33858505.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33862128,eu_outer_regions_ets_flag,N,Y,33862128.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33862128.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33862336,eu_outer_regions_ets_flag,N,Y,33862336.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33862336.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33862543,eu_outer_regions_ets_flag,N,Y,33862543.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33862543.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33862587,eu_outer_regions_ets_flag,N,Y,33862587.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33862587.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33862709,eu_outer_regions_ets_flag,N,Y,33862709.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33862709.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33862782,eu_outer_regions_ets_flag,N,Y,33862782.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33862782.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33866217,eu_outer_regions_ets_flag,N,Y,33866217.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33866217.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33866233,eu_outer_regions_ets_flag,N,Y,33866233.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33866233.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33866353,eu_outer_regions_ets_flag,N,Y,33866353.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33866353.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33866671,eu_outer_regions_ets_flag,N,Y,33866671.0,1.BAW (Speedbird),N,N,2592.0,Y,N,N,N,N,N,N,N,N,33866671.0,1.BAW (SPEEDBIRD),Y,N,2592.0,Y,N,N,N,N,N,N,N,N
+33866781,eu_outer_regions_ets_flag,N,Y,33866781.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33866781.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33866786,eu_outer_regions_ets_flag,N,Y,33866786.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33866786.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33866792,eu_outer_regions_ets_flag,N,Y,33866792.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33866792.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33866833,eu_outer_regions_ets_flag,N,Y,33866833.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33866833.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33866865,eu_outer_regions_ets_flag,N,Y,33866865.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33866865.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33866895,eu_outer_regions_ets_flag,N,Y,33866895.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33866895.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33869420,eu_outer_regions_ets_flag,N,Y,33869420.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33869420.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33870769,eu_outer_regions_ets_flag,N,Y,33870769.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33870769.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33870814,eu_outer_regions_ets_flag,N,Y,33870814.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33870814.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33870851,eu_outer_regions_ets_flag,N,Y,33870851.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33870851.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33870923,eu_outer_regions_ets_flag,N,Y,33870923.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33870923.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33870957,eu_outer_regions_ets_flag,N,Y,33870957.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33870957.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33871029,eu_outer_regions_ets_flag,N,Y,33871029.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33871029.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33874708,eu_outer_regions_ets_flag,N,Y,33874708.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33874708.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33875130,eu_outer_regions_ets_flag,N,Y,33875130.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33875130.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33875142,eu_outer_regions_ets_flag,N,Y,33875142.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33875142.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33875145,eu_outer_regions_ets_flag,N,Y,33875145.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33875145.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33875162,eu_outer_regions_ets_flag,N,Y,33875162.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33875162.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33878992,eu_outer_regions_ets_flag,N,Y,33878992.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33878992.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33879216,eu_outer_regions_ets_flag,N,Y,33879216.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33879216.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33879219,eu_outer_regions_ets_flag,N,Y,33879219.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33879219.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33879227,eu_outer_regions_ets_flag,N,Y,33879227.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33879227.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33879275,eu_outer_regions_ets_flag,N,Y,33879275.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33879275.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33879576,eu_outer_regions_ets_flag,N,Y,33879576.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33879576.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33883434,eu_outer_regions_ets_flag,N,Y,33883434.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33883434.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33883439,eu_outer_regions_ets_flag,N,Y,33883439.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33883439.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33883442,eu_outer_regions_ets_flag,N,Y,33883442.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33883442.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33883444,eu_outer_regions_ets_flag,N,Y,33883444.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33883444.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33883553,eu_outer_regions_ets_flag,N,Y,33883553.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33883553.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33883811,eu_outer_regions_ets_flag,N,Y,33883811.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33883811.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33884431,eu_outer_regions_ets_flag,N,Y,33884431.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33884431.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33884432,eu_outer_regions_ets_flag,N,Y,33884432.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33884432.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33884443,eu_outer_regions_ets_flag,N,Y,33884443.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33884443.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33884599,eu_outer_regions_ets_flag,N,Y,33884599.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33884599.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33884688,eu_outer_regions_ets_flag,N,Y,33884688.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33884688.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33884709,eu_outer_regions_ets_flag,N,Y,33884709.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33884709.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33884765,eu_outer_regions_ets_flag,N,Y,33884765.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33884765.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33891830,eu_outer_regions_ets_flag,N,Y,33891830.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33891830.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33891949,eu_outer_regions_ets_flag,N,Y,33891949.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33891949.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33892141,eu_outer_regions_ets_flag,N,Y,33892141.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33892141.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33892280,eu_outer_regions_ets_flag,N,Y,33892280.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33892280.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33892291,eu_outer_regions_ets_flag,N,Y,33892291.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33892291.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33892455,eu_outer_regions_ets_flag,N,Y,33892455.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33892455.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33894228,eu_outer_regions_ets_flag,N,Y,33894228.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33894228.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33896005,eu_outer_regions_ets_flag,N,Y,33896005.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33896005.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33896006,eu_outer_regions_ets_flag,N,Y,33896006.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33896006.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33896062,eu_outer_regions_ets_flag,N,Y,33896062.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33896062.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33896069,eu_outer_regions_ets_flag,N,Y,33896069.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33896069.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33896072,eu_outer_regions_ets_flag,N,Y,33896072.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33896072.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33896230,eu_outer_regions_ets_flag,N,Y,33896230.0,1.BAW (Speedbird),N,N,2592.0,Y,N,N,N,N,N,N,N,N,33896230.0,1.BAW (SPEEDBIRD),Y,N,2592.0,Y,N,N,N,N,N,N,N,N
+33896295,eu_outer_regions_ets_flag,N,Y,33896295.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33896295.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33896305,eu_outer_regions_ets_flag,N,Y,33896305.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33896305.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33896468,eu_outer_regions_ets_flag,N,Y,33896468.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33896468.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33899749,eu_outer_regions_ets_flag,N,Y,33899749.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33899749.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33900338,eu_outer_regions_ets_flag,N,Y,33900338.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33900338.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33900581,eu_outer_regions_ets_flag,N,Y,33900581.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33900581.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33900582,eu_outer_regions_ets_flag,N,Y,33900582.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33900582.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33900693,eu_outer_regions_ets_flag,N,Y,33900693.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33900693.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33900758,eu_outer_regions_ets_flag,N,Y,33900758.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33900758.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33900767,eu_outer_regions_ets_flag,N,Y,33900767.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33900767.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33904754,eu_outer_regions_ets_flag,N,Y,33904754.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33904754.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33904828,eu_outer_regions_ets_flag,N,Y,33904828.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33904828.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33904832,eu_outer_regions_ets_flag,N,Y,33904832.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33904832.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33904840,eu_outer_regions_ets_flag,N,Y,33904840.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33904840.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33904920,eu_outer_regions_ets_flag,N,Y,33904920.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33904920.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33908816,eu_outer_regions_ets_flag,N,Y,33908816.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33908816.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33908817,eu_outer_regions_ets_flag,N,Y,33908817.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33908817.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33908854,eu_outer_regions_ets_flag,N,Y,33908854.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33908854.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33909267,eu_outer_regions_ets_flag,N,Y,33909267.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33909267.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33909272,eu_outer_regions_ets_flag,N,Y,33909272.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33909272.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33909276,eu_outer_regions_ets_flag,N,Y,33909276.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33909276.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33913264,eu_outer_regions_ets_flag,N,Y,33913264.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33913264.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33913270,eu_outer_regions_ets_flag,N,Y,33913270.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33913270.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33913272,eu_outer_regions_ets_flag,N,Y,33913272.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33913272.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33913275,eu_outer_regions_ets_flag,N,Y,33913275.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33913275.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33913391,eu_outer_regions_ets_flag,N,Y,33913391.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33913391.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33913463,eu_outer_regions_ets_flag,N,Y,33913463.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33913463.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33917314,eu_outer_regions_ets_flag,N,Y,33917314.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33917314.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33917519,eu_outer_regions_ets_flag,N,Y,33917519.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33917519.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33917533,eu_outer_regions_ets_flag,N,Y,33917533.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33917533.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33917537,eu_outer_regions_ets_flag,N,Y,33917537.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33917537.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33917645,eu_outer_regions_ets_flag,N,Y,33917645.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33917645.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33917651,eu_outer_regions_ets_flag,N,Y,33917651.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33917651.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33917655,eu_outer_regions_ets_flag,N,Y,33917655.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33917655.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33918426,eu_outer_regions_ets_flag,N,Y,33918426.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33918426.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33918466,eu_outer_regions_ets_flag,N,Y,33918466.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33918466.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33918618,eu_outer_regions_ets_flag,N,Y,33918618.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33918618.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33918628,eu_outer_regions_ets_flag,N,Y,33918628.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33918628.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33918640,eu_outer_regions_ets_flag,N,Y,33918640.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33918640.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33918676,eu_outer_regions_ets_flag,N,Y,33918676.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33918676.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33925617,eu_outer_regions_ets_flag,N,Y,33925617.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33925617.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33925724,eu_outer_regions_ets_flag,N,Y,33925724.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33925724.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33925923,eu_outer_regions_ets_flag,N,Y,33925923.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33925923.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33925957,eu_outer_regions_ets_flag,N,Y,33925957.0,1.BAW (Speedbird),N,N,2592.0,Y,N,N,N,N,N,N,N,N,33925957.0,1.BAW (SPEEDBIRD),Y,N,2592.0,Y,N,N,N,N,N,N,N,N
+33925962,eu_outer_regions_ets_flag,N,Y,33925962.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33925962.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33926039,eu_outer_regions_ets_flag,N,Y,33926039.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33926039.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33926046,eu_outer_regions_ets_flag,N,Y,33926046.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33926046.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33926070,eu_outer_regions_ets_flag,N,Y,33926070.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33926070.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33926081,eu_outer_regions_ets_flag,N,Y,33926081.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33926081.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33926103,eu_outer_regions_ets_flag,N,Y,33926103.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33926103.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33927474,eu_outer_regions_ets_flag,N,Y,33927474.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33927474.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33929796,eu_outer_regions_ets_flag,N,Y,33929796.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33929796.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33930188,eu_outer_regions_ets_flag,N,Y,33930188.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33930188.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33930219,eu_outer_regions_ets_flag,N,Y,33930219.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33930219.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33930259,eu_outer_regions_ets_flag,N,Y,33930259.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33930259.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33930314,eu_outer_regions_ets_flag,N,Y,33930314.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33930314.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33930318,eu_outer_regions_ets_flag,N,Y,33930318.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33930318.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33934431,eu_outer_regions_ets_flag,N,Y,33934431.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33934431.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33934435,eu_outer_regions_ets_flag,N,Y,33934435.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33934435.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33934466,eu_outer_regions_ets_flag,N,Y,33934466.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33934466.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33934477,eu_outer_regions_ets_flag,N,Y,33934477.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33934477.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33934524,eu_outer_regions_ets_flag,N,Y,33934524.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33934524.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33935266,eu_outer_regions_ets_flag,N,Y,33935266.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33935266.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33935274,eu_outer_regions_ets_flag,N,Y,33935274.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33935274.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33935581,eu_outer_regions_ets_flag,N,Y,33935581.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33935581.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33935582,eu_outer_regions_ets_flag,N,Y,33935582.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33935582.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33935594,eu_outer_regions_ets_flag,N,Y,33935594.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33935594.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33935754,eu_outer_regions_ets_flag,N,Y,33935754.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33935754.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33939654,eu_outer_regions_ets_flag,N,Y,33939654.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33939654.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33939655,eu_outer_regions_ets_flag,N,Y,33939655.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33939655.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33939679,eu_outer_regions_ets_flag,N,Y,33939679.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33939679.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33939686,eu_outer_regions_ets_flag,N,Y,33939686.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33939686.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33939692,eu_outer_regions_ets_flag,N,Y,33939692.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33939692.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33939857,eu_outer_regions_ets_flag,N,Y,33939857.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33939857.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33940086,eu_outer_regions_ets_flag,N,Y,33940086.0,1.BAW (Speedbird),N,N,2592.0,Y,N,N,N,N,N,N,N,N,33940086.0,1.BAW (SPEEDBIRD),Y,N,2592.0,Y,N,N,N,N,N,N,N,N
+33943676,eu_outer_regions_ets_flag,N,Y,33943676.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33943676.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33943802,eu_outer_regions_ets_flag,N,Y,33943802.0,6. EFW (Euroflyer),N,N,2863.0,Y,N,N,N,N,N,N,N,N,33943802.0,6. EFW (EUROFLYER),Y,N,2863.0,Y,N,N,N,N,N,N,N,N
+33943803,eu_outer_regions_ets_flag,N,Y,33943803.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33943803.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33943811,eu_outer_regions_ets_flag,N,Y,33943811.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33943811.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33943815,eu_outer_regions_ets_flag,N,Y,33943815.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33943815.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33943932,eu_outer_regions_ets_flag,N,Y,33943932.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33943932.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33943937,eu_outer_regions_ets_flag,N,Y,33943937.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33943937.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33948136,eu_outer_regions_ets_flag,N,Y,33948136.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33948136.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33948153,eu_outer_regions_ets_flag,N,Y,33948153.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33948153.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33948222,eu_outer_regions_ets_flag,N,Y,33948222.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33948222.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33948223,eu_outer_regions_ets_flag,N,Y,33948223.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33948223.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33952351,eu_outer_regions_ets_flag,N,Y,33952351.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33952351.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33952360,eu_outer_regions_ets_flag,N,Y,33952360.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33952360.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33952363,eu_outer_regions_ets_flag,N,Y,33952363.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33952363.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33952439,eu_outer_regions_ets_flag,N,Y,33952439.0,1.BAW (Speedbird),N,N,2592.0,Y,N,N,N,N,N,N,N,N,33952439.0,1.BAW (SPEEDBIRD),Y,N,2592.0,Y,N,N,N,N,N,N,N,N
+33952868,eu_outer_regions_ets_flag,N,Y,33952868.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33952868.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33955827,eu_outer_regions_ets_flag,N,Y,33955827.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33955827.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33956408,eu_outer_regions_ets_flag,N,Y,33956408.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33956408.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33959933,eu_outer_regions_ets_flag,N,Y,33959933.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33959933.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33959942,eu_outer_regions_ets_flag,N,Y,33959942.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33959942.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33959960,eu_outer_regions_ets_flag,N,Y,33959960.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33959960.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33960066,eu_outer_regions_ets_flag,N,Y,33960066.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33960066.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33964048,eu_outer_regions_ets_flag,N,Y,33964048.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33964048.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33968274,eu_outer_regions_ets_flag,N,Y,33968274.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33968274.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33968278,eu_outer_regions_ets_flag,N,Y,33968278.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33968278.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33968329,eu_outer_regions_ets_flag,N,Y,33968329.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33968329.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33972551,eu_outer_regions_ets_flag,N,Y,33972551.0,1.BAW (Speedbird),N,N,2592.0,Y,N,N,N,N,N,N,N,N,33972551.0,1.BAW (SPEEDBIRD),Y,N,2592.0,Y,N,N,N,N,N,N,N,N
+33972590,eu_outer_regions_ets_flag,N,Y,33972590.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33972590.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33972592,eu_outer_regions_ets_flag,N,Y,33972592.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33972592.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33972604,eu_outer_regions_ets_flag,N,Y,33972604.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33972604.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33972641,eu_outer_regions_ets_flag,N,Y,33972641.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33972641.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33976790,eu_outer_regions_ets_flag,N,Y,33976790.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33976790.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33976829,eu_outer_regions_ets_flag,N,Y,33976829.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33976829.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33976953,eu_outer_regions_ets_flag,N,Y,33976953.0,6. EFW (Euroflyer),N,N,2972.0,Y,N,N,N,N,N,N,N,N,33976953.0,6. EFW (EUROFLYER),Y,N,2972.0,Y,N,N,N,N,N,N,N,N
+33976955,eu_outer_regions_ets_flag,N,Y,33976955.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33976955.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33976956,eu_outer_regions_ets_flag,N,Y,33976956.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33976956.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33980720,eu_outer_regions_ets_flag,N,Y,33980720.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33980720.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33981133,eu_outer_regions_ets_flag,N,Y,33981133.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33981133.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33981134,eu_outer_regions_ets_flag,N,Y,33981134.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33981134.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33981323,eu_outer_regions_ets_flag,N,Y,33981323.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33981323.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33984942,eu_outer_regions_ets_flag,N,Y,33984942.0,6. EFW (Euroflyer),N,N,2551.0,Y,N,N,N,N,N,N,N,N,33984942.0,6. EFW (EUROFLYER),Y,N,2551.0,Y,N,N,N,N,N,N,N,N
+33985275,eu_outer_regions_ets_flag,N,Y,33985275.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33985275.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33985317,eu_outer_regions_ets_flag,N,Y,33985317.0,6. EFW (Euroflyer),N,N,3006.0,Y,N,N,N,N,N,N,N,N,33985317.0,6. EFW (EUROFLYER),Y,N,3006.0,Y,N,N,N,N,N,N,N,N
+33985328,eu_outer_regions_ets_flag,N,Y,33985328.0,6. EFW (Euroflyer),N,N,2803.0,Y,N,N,N,N,N,N,N,N,33985328.0,6. EFW (EUROFLYER),Y,N,2803.0,Y,N,N,N,N,N,N,N,N
+33985368,eu_outer_regions_ets_flag,N,Y,33985368.0,1.BAW (Speedbird),N,N,2592.0,Y,N,N,N,N,N,N,N,N,33985368.0,1.BAW (SPEEDBIRD),Y,N,2592.0,Y,N,N,N,N,N,N,N,N
+33985375,eu_outer_regions_ets_flag,N,Y,33985375.0,1.BAW (Speedbird),N,N,3025.0,Y,N,N,N,N,N,N,N,N,33985375.0,1.BAW (SPEEDBIRD),Y,N,3025.0,Y,N,N,N,N,N,N,N,N
+33722729,dom,Y,N,33722729.0,1.BAW (Speedbird),N,Y,1127.0,N,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,
+33727113,dom,Y,N,33727113.0,1.BAW (Speedbird),N,Y,240.0,N,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,
+33892690,dom,N,Y,,,,,,,,,,,,,,,33892690.0,1.BAW (SPEEDBIRD),N,Y,95.0,N,N,N,Y,N,N,N,N,N
+33918644,dom,N,Y,,,,,,,,,,,,,,,33918644.0,6. EFW (EUROFLYER),N,Y,331.0,N,N,Y,N,N,Y,N,N,Y
+33722729,gcd+95,1127.0,N,33722729.0,1.BAW (Speedbird),N,Y,1127.0,N,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,
+33724022,gcd+95,N,8875.0,,,,,,,,,,,,,,,33724022.0,1.BAW (SPEEDBIRD),N,N,8875.0,Y,N,N,N,N,N,N,N,N
+33725898,gcd+95,8922.0,N,33725898.0,1.BAW (Speedbird),N,N,8922.0,Y,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,
+33727068,gcd+95,6384.0,N,33727068.0,1.BAW (Speedbird),N,N,6384.0,Y,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,
+33727113,gcd+95,240.0,N,33727113.0,1.BAW (Speedbird),N,Y,240.0,N,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,
+33727114,gcd+95,7083.0,N,33727114.0,1.BAW (Speedbird),N,N,7083.0,N,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,
+33727118,gcd+95,6897.0,N,33727118.0,1.BAW (Speedbird),N,N,6897.0,N,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,
+33727126,gcd+95,2090.0,N,33727126.0,1.BAW (Speedbird),N,N,2090.0,N,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,
+33751708,gcd+95,N,1788.0,,,,,,,,,,,,,,,33751708.0,6. EFW (EUROFLYER),N,N,1788.0,Y,N,Y,N,N,Y,N,N,Y
+33756195,gcd+95,N,296.0,,,,,,,,,,,,,,,33756195.0,6. EFW (EUROFLYER),N,N,296.0,Y,N,Y,N,N,Y,N,N,Y
+33818792,gcd+95,N,1341.0,,,,,,,,,,,,,,,33818792.0,NOT IN REF TABLE,N,N,1341.0,Y,N,Y,N,N,Y,N,N,Y
+33883188,gcd+95,N,1078.0,,,,,,,,,,,,,,,33883188.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33883189,gcd+95,N,1078.0,,,,,,,,,,,,,,,33883189.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33883190,gcd+95,N,382.0,,,,,,,,,,,,,,,33883190.0,5. EXCLUDED CALLSIGNS,N,N,382.0,Y,N,Y,N,N,Y,N,N,Y
+33883191,gcd+95,N,382.0,,,,,,,,,,,,,,,33883191.0,5. EXCLUDED CALLSIGNS,N,N,382.0,Y,N,Y,N,N,Y,N,N,Y
+33891810,gcd+95,N,1078.0,,,,,,,,,,,,,,,33891810.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33891811,gcd+95,N,1078.0,,,,,,,,,,,,,,,33891811.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33892690,gcd+95,N,95.0,,,,,,,,,,,,,,,33892690.0,1.BAW (SPEEDBIRD),N,Y,95.0,N,N,N,Y,N,N,N,N,N
+33904854,gcd+95,N,1078.0,,,,,,,,,,,,,,,33904854.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33904855,gcd+95,N,1078.0,,,,,,,,,,,,,,,33904855.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33912939,gcd+95,N,1078.0,,,,,,,,,,,,,,,33912939.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33912940,gcd+95,N,1078.0,,,,,,,,,,,,,,,33912940.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33918644,gcd+95,N,331.0,,,,,,,,,,,,,,,33918644.0,6. EFW (EUROFLYER),N,Y,331.0,N,N,Y,N,N,Y,N,N,Y
+33918849,gcd+95,N,1078.0,,,,,,,,,,,,,,,33918849.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33918850,gcd+95,N,1078.0,,,,,,,,,,,,,,,33918850.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33919358,gcd+95,N,830.0,,,,,,,,,,,,,,,33919358.0,1.BAW (SPEEDBIRD),N,N,830.0,Y,N,Y,N,N,Y,N,N,Y
+33934164,gcd+95,N,1078.0,,,,,,,,,,,,,,,33934164.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33934165,gcd+95,N,1078.0,,,,,,,,,,,,,,,33934165.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33940109,gcd+95,N,1078.0,,,,,,,,,,,,,,,33940109.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33940110,gcd+95,N,1078.0,,,,,,,,,,,,,,,33940110.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33948630,gcd+95,N,1078.0,,,,,,,,,,,,,,,33948630.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33948631,gcd+95,N,1078.0,,,,,,,,,,,,,,,33948631.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33952748,gcd+95,N,392.0,33952748.0,4.CFE (Cityflyer),N,Y,N,N,N,Y,N,Y,Y,N,N,N,33952748.0,4.CFE (CITYFLYER),N,Y,392.0,N,N,Y,N,Y,Y,N,N,N
+33959393,gcd+95,N,392.0,33959393.0,4.CFE (Cityflyer),N,Y,N,N,N,Y,N,Y,Y,N,N,N,33959393.0,4.CFE (CITYFLYER),N,Y,392.0,N,N,Y,N,Y,Y,N,N,N
+33959527,gcd+95,N,7874.0,,,,,,,,,,,,,,,33959527.0,1.BAW (SPEEDBIRD),N,N,7874.0,Y,N,N,N,N,N,N,N,N
+33982801,gcd+95,N,6012.0,,,,,,,,,,,,,,,33982801.0,1.BAW (SPEEDBIRD),N,N,6012.0,Y,N,N,N,N,N,N,N,N
+33985039,gcd+95,8875.0,N,33985039.0,1.BAW (Speedbird),N,N,8875.0,Y,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,
+33985110,gcd+95,8336.0,N,33985110.0,1.BAW (Speedbird),N,N,8336.0,N,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,
+33985901,gcd+95,N,2090.0,,,,,,,,,,,,,,,33985901.0,1.BAW (SPEEDBIRD),N,N,2090.0,N,N,N,N,N,N,N,N,N
+33985905,gcd+95,N,7083.0,,,,,,,,,,,,,,,33985905.0,1.BAW (SPEEDBIRD),N,N,7083.0,N,N,N,N,N,N,N,N,N
+33985908,gcd+95,N,6897.0,,,,,,,,,,,,,,,33985908.0,1.BAW (SPEEDBIRD),N,N,6897.0,N,N,N,N,N,N,N,N,N
+33985909,gcd+95,N,6384.0,,,,,,,,,,,,,,,33985909.0,1.BAW (SPEEDBIRD),N,N,6384.0,Y,N,N,N,N,N,N,N,N
+33724022,corsia_(old),N,Y,,,,,,,,,,,,,,,33724022.0,1.BAW (SPEEDBIRD),N,N,8875.0,Y,N,N,N,N,N,N,N,N
+33725898,corsia_(old),Y,N,33725898.0,1.BAW (Speedbird),N,N,8922.0,Y,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,
+33727068,corsia_(old),Y,N,33727068.0,1.BAW (Speedbird),N,N,6384.0,Y,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,
+33751708,corsia_(old),N,Y,,,,,,,,,,,,,,,33751708.0,6. EFW (EUROFLYER),N,N,1788.0,Y,N,Y,N,N,Y,N,N,Y
+33756195,corsia_(old),N,Y,,,,,,,,,,,,,,,33756195.0,6. EFW (EUROFLYER),N,N,296.0,Y,N,Y,N,N,Y,N,N,Y
+33818792,corsia_(old),N,Y,,,,,,,,,,,,,,,33818792.0,NOT IN REF TABLE,N,N,1341.0,Y,N,Y,N,N,Y,N,N,Y
+33883188,corsia_(old),N,Y,,,,,,,,,,,,,,,33883188.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33883189,corsia_(old),N,Y,,,,,,,,,,,,,,,33883189.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33883190,corsia_(old),N,Y,,,,,,,,,,,,,,,33883190.0,5. EXCLUDED CALLSIGNS,N,N,382.0,Y,N,Y,N,N,Y,N,N,Y
+33883191,corsia_(old),N,Y,,,,,,,,,,,,,,,33883191.0,5. EXCLUDED CALLSIGNS,N,N,382.0,Y,N,Y,N,N,Y,N,N,Y
+33891810,corsia_(old),N,Y,,,,,,,,,,,,,,,33891810.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33891811,corsia_(old),N,Y,,,,,,,,,,,,,,,33891811.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33904854,corsia_(old),N,Y,,,,,,,,,,,,,,,33904854.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33904855,corsia_(old),N,Y,,,,,,,,,,,,,,,33904855.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33912939,corsia_(old),N,Y,,,,,,,,,,,,,,,33912939.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33912940,corsia_(old),N,Y,,,,,,,,,,,,,,,33912940.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33918849,corsia_(old),N,Y,,,,,,,,,,,,,,,33918849.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33918850,corsia_(old),N,Y,,,,,,,,,,,,,,,33918850.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33919358,corsia_(old),N,Y,,,,,,,,,,,,,,,33919358.0,1.BAW (SPEEDBIRD),N,N,830.0,Y,N,Y,N,N,Y,N,N,Y
+33934164,corsia_(old),N,Y,,,,,,,,,,,,,,,33934164.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33934165,corsia_(old),N,Y,,,,,,,,,,,,,,,33934165.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33940109,corsia_(old),N,Y,,,,,,,,,,,,,,,33940109.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33940110,corsia_(old),N,Y,,,,,,,,,,,,,,,33940110.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33948630,corsia_(old),N,Y,,,,,,,,,,,,,,,33948630.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33948631,corsia_(old),N,Y,,,,,,,,,,,,,,,33948631.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33959527,corsia_(old),N,Y,,,,,,,,,,,,,,,33959527.0,1.BAW (SPEEDBIRD),N,N,7874.0,Y,N,N,N,N,N,N,N,N
+33982801,corsia_(old),N,Y,,,,,,,,,,,,,,,33982801.0,1.BAW (SPEEDBIRD),N,N,6012.0,Y,N,N,N,N,N,N,N,N
+33985039,corsia_(old),Y,N,33985039.0,1.BAW (Speedbird),N,N,8875.0,Y,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,
+33985909,corsia_(old),N,Y,,,,,,,,,,,,,,,33985909.0,1.BAW (SPEEDBIRD),N,N,6384.0,Y,N,N,N,N,N,N,N,N
+33751708,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33751708.0,6. EFW (EUROFLYER),N,N,1788.0,Y,N,Y,N,N,Y,N,N,Y
+33756195,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33756195.0,6. EFW (EUROFLYER),N,N,296.0,Y,N,Y,N,N,Y,N,N,Y
+33818792,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33818792.0,NOT IN REF TABLE,N,N,1341.0,Y,N,Y,N,N,Y,N,N,Y
+33883188,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33883188.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33883189,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33883189.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33883190,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33883190.0,5. EXCLUDED CALLSIGNS,N,N,382.0,Y,N,Y,N,N,Y,N,N,Y
+33883191,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33883191.0,5. EXCLUDED CALLSIGNS,N,N,382.0,Y,N,Y,N,N,Y,N,N,Y
+33891810,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33891810.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33891811,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33891811.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33904854,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33904854.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33904855,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33904855.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33912939,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33912939.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33912940,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33912940.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33918644,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33918644.0,6. EFW (EUROFLYER),N,Y,331.0,N,N,Y,N,N,Y,N,N,Y
+33918849,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33918849.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33918850,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33918850.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33919358,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33919358.0,1.BAW (SPEEDBIRD),N,N,830.0,Y,N,Y,N,N,Y,N,N,Y
+33934164,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33934164.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33934165,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33934165.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33940109,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33940109.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33940110,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33940110.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33948630,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33948630.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33948631,combined_ets_flag,N,Y,,,,,,,,,,,,,,,33948631.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33892690,circular,N,Y,,,,,,,,,,,,,,,33892690.0,1.BAW (SPEEDBIRD),N,Y,95.0,N,N,N,Y,N,N,N,N,N
+33883189,uk_ets_flag,N,Y,,,,,,,,,,,,,,,33883189.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33891811,uk_ets_flag,N,Y,,,,,,,,,,,,,,,33891811.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33904855,uk_ets_flag,N,Y,,,,,,,,,,,,,,,33904855.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33912940,uk_ets_flag,N,Y,,,,,,,,,,,,,,,33912940.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33918850,uk_ets_flag,N,Y,,,,,,,,,,,,,,,33918850.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33934165,uk_ets_flag,N,Y,,,,,,,,,,,,,,,33934165.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33940110,uk_ets_flag,N,Y,,,,,,,,,,,,,,,33940110.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33948631,uk_ets_flag,N,Y,,,,,,,,,,,,,,,33948631.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33751708,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33751708.0,6. EFW (EUROFLYER),N,N,1788.0,Y,N,Y,N,N,Y,N,N,Y
+33756195,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33756195.0,6. EFW (EUROFLYER),N,N,296.0,Y,N,Y,N,N,Y,N,N,Y
+33818792,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33818792.0,NOT IN REF TABLE,N,N,1341.0,Y,N,Y,N,N,Y,N,N,Y
+33883188,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33883188.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33883189,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33883189.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33883190,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33883190.0,5. EXCLUDED CALLSIGNS,N,N,382.0,Y,N,Y,N,N,Y,N,N,Y
+33883191,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33883191.0,5. EXCLUDED CALLSIGNS,N,N,382.0,Y,N,Y,N,N,Y,N,N,Y
+33891810,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33891810.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33891811,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33891811.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33904854,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33904854.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33904855,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33904855.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33912939,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33912939.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33912940,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33912940.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33918644,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33918644.0,6. EFW (EUROFLYER),N,Y,331.0,N,N,Y,N,N,Y,N,N,Y
+33918849,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33918849.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33918850,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33918850.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33919358,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33919358.0,1.BAW (SPEEDBIRD),N,N,830.0,Y,N,Y,N,N,Y,N,N,Y
+33934164,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33934164.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33934165,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33934165.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33940109,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33940109.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33940110,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33940110.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33948630,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33948630.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33948631,eu_ets_(old),N,Y,,,,,,,,,,,,,,,33948631.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,Y,Y,N,N,N
+33751708,eu_ets_flag,N,Y,,,,,,,,,,,,,,,33751708.0,6. EFW (EUROFLYER),N,N,1788.0,Y,N,Y,N,N,Y,N,N,Y
+33756195,eu_ets_flag,N,Y,,,,,,,,,,,,,,,33756195.0,6. EFW (EUROFLYER),N,N,296.0,Y,N,Y,N,N,Y,N,N,Y
+33818792,eu_ets_flag,N,Y,,,,,,,,,,,,,,,33818792.0,NOT IN REF TABLE,N,N,1341.0,Y,N,Y,N,N,Y,N,N,Y
+33883188,eu_ets_flag,N,Y,,,,,,,,,,,,,,,33883188.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33883190,eu_ets_flag,N,Y,,,,,,,,,,,,,,,33883190.0,5. EXCLUDED CALLSIGNS,N,N,382.0,Y,N,Y,N,N,Y,N,N,Y
+33883191,eu_ets_flag,N,Y,,,,,,,,,,,,,,,33883191.0,5. EXCLUDED CALLSIGNS,N,N,382.0,Y,N,Y,N,N,Y,N,N,Y
+33891810,eu_ets_flag,N,Y,,,,,,,,,,,,,,,33891810.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33904854,eu_ets_flag,N,Y,,,,,,,,,,,,,,,33904854.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33912939,eu_ets_flag,N,Y,,,,,,,,,,,,,,,33912939.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33918644,eu_ets_flag,N,Y,,,,,,,,,,,,,,,33918644.0,6. EFW (EUROFLYER),N,Y,331.0,N,N,Y,N,N,Y,N,N,Y
+33918849,eu_ets_flag,N,Y,,,,,,,,,,,,,,,33918849.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33919358,eu_ets_flag,N,Y,,,,,,,,,,,,,,,33919358.0,1.BAW (SPEEDBIRD),N,N,830.0,Y,N,Y,N,N,Y,N,N,Y
+33934164,eu_ets_flag,N,Y,,,,,,,,,,,,,,,33934164.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33940109,eu_ets_flag,N,Y,,,,,,,,,,,,,,,33940109.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
+33948630,eu_ets_flag,N,Y,,,,,,,,,,,,,,,33948630.0,5. EXCLUDED CALLSIGNS,N,N,1078.0,Y,N,Y,N,N,Y,N,N,Y
