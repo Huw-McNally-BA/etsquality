@@ -2,17 +2,25 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
+from matplotlib.backends.backend_pdf import PdfPages
 
 def main():
     print("Hello from etsquality!")
     #pd.set_option('display.max_columns', None)
-    alex_data = read_xl_skip_rows("alex_data.xlsb", number_of_rows=4, range='B:DN')
-    our_data = read_xl_skip_rows("our_data.xlsm", number_of_rows=5, range='C:DO')
+    alex_data = read_xl_skip_rows("alex_v3.xlsb", number_of_rows=4, range='B:DN')
+    our_data = read_xl_skip_rows("our_v3.xlsm", number_of_rows=5, range='C:DO')
 
     alex_data.columns = our_data.columns.str.lower().str.replace(' ', '_')
     our_data.columns = alex_data.columns.str.lower().str.replace(' ', '_')
 
     compare_datasets(alex_data, our_data)
+    #check_cols(our_data)
+
+    #numeric_descriptions = numeric_col_check(our_data, df_compare=alex_data, plot=False, plot_all=False)
+
+    #numeric_col_plot_comparison(our_data, alex_data)
+    #categoric_col_plot_comparison(our_data, alex_data)
+    #print("\nNumeric column descriptions:\n", numeric_descriptions)
 
     return 0
 
@@ -63,10 +71,50 @@ def compare_datasets(df_original, df_new):
     print("Different Columns:", different_columns, different_columns_other)
 
     # Define the flag columns we want to compare
+    numeric_flag_columns = [
+        'planned_burn', 'expected_fuel_burn', 'max_tanks', 'subs_flight_no', 'master_fuel_burn', 'master_total_burn'
+    ]
+     
+    # Define which columns should use numeric comparison with tolerance
     flag_columns = [
-        'gcd+95', 'eu_ets_(old)', 'swiss', 'corsia_(old)', 'dom', 'circular', 
-        'outer', 'roue_plan_vs_actual', 'domestic_offset_flag-uk', 'uk_ets_flag', 
-        'eu_ets_flag', 'swiss_ets_flag', 'eu_outer_regions_ets_flag', 'combined_ets_flag'
+        'planned_burn', 'expected_fuel_burn', 'max_tanks',
+        "ref",
+        "x",
+        "cs",
+        "cs_applied",
+        "operational_product_code",
+        "d",
+        "a",
+        "d_icao",
+        "a_icao",
+        "route",
+        "planned_route",
+        "gcd+95",
+        "eu_ets_(old)",
+        "swiss",
+        "corsia_(old)",
+        "dom",
+        "circular",
+        "outer",
+        "fly_time_min",
+        "block_time_min",
+        "subs_flytime_min",
+        "subs_route",
+        "aircraft_reg",
+        "iata_type",
+        "icao_type",
+        "subs_oaw_id",
+        "flight_no",
+        "sfx",
+        "subs_flight_no",
+        "base_fuel",
+        "master_total_burn",
+        "x",
+        "concat_to_cityflyer_raw",
+        "subs_base_uplift_(where_applied)",
+        "depart_fuel_source",
+        "subs_depart_fuel_source",
+        "subs_fuel_uplift_tonne"
     ]
 
     # Get the flag columns that exist in both dataframes
@@ -75,31 +123,33 @@ def compare_datasets(df_original, df_new):
 
     # Compare flags
     if common_flag_columns:
-        # Define which columns should use '0' vs 'N' for blanks
-        zero_columns = ['gcd+95', 'dom', 'circular', 'outer', 'roue_plan_vs_actual']
-        n_columns = ['eu_ets_(old)', 'swiss', 'corsia_(old)', 'domestic_offset_flag-uk', 
-                    'uk_ets_flag', 'eu_ets_flag', 'swiss_ets_flag', 
-                    'eu_outer_regions_ets_flag', 'combined_ets_flag']
-
         # Process each flag column to ensure Y/N consistency
         for col in common_flag_columns:
-            # Step 1: Convert to strings and handle NaN/empty values
+            # Step 1: Process values based on column type
             for df in [df_original, df_new]:
-                # Convert to string but preserve NaN
-                df[col] = df[col].astype(str).replace('nan', 'N')
-                df[col] = df[col].astype(str).replace('NaN', 'N')
-                df[col] = df[col].astype(str).replace(np.nan, 'N')
+                if col in numeric_flag_columns:
+                    # For numeric columns, just handle NaN consistently
+                    df[col] = df[col].replace('nan', np.nan)
+                    df[col] = df[col].replace('NaN', np.nan)
+                else:
+                    # For non-numeric columns: convert to string, strip whitespace, and normalize
+                    df[col] = df[col].astype(str).str.strip().str.lower()
+                    
+                    # Convert NaN variants to N
+                    df[col] = df[col].replace('nan', 'N')
+                    df[col] = df[col].replace('NaN', 'N')
+                    df[col] = df[col].replace(np.nan, 'N')
 
-                # Normalize various forms of true/false values to Y/N
-                value_map = {
-                    '1': 'Y', '1.0': 'Y', 'yes': 'Y', 'true': 'Y', 'True': 'Y',
-                    '0': 'N', '0.0': 'N', 'no': 'N', 'false': 'N', 'False': 'N',
-                    '': 'N', ' ': 'N'  # Empty strings and spaces become N
-                }
-                df[col] = df[col].map(lambda x: value_map.get(str(x), x))
-                
-                # Fill any remaining NaN with N
-                df[col] = df[col].fillna('N')
+                    # Normalize various forms of true/false values to Y/N
+                    value_map = {
+                        '1': 'Y', '1.0': 'Y', 'yes': 'Y', 'true': 'Y', 'True': 'Y',
+                        '0': 'N', '0.0': 'N', 'no': 'N', 'false': 'N', 'False': 'N',
+                        '': 'N', ' ': 'N'  # Empty strings and spaces become N
+                    }
+                    df[col] = df[col].map(lambda x: value_map.get(str(x).strip(), x))
+                    
+                    # Fill any remaining NaN with N
+                    df[col] = df[col].fillna('N')
             
             # Validation: check for unexpected values
             for df, name in [(df_original, 'original'), (df_new, 'new')]:
@@ -125,8 +175,17 @@ def compare_datasets(df_original, df_new):
             orig_col = f"{col}_orig"
             new_col = f"{col}_new"
             
-            # Compare values
-            mismatches = flag_comparison[flag_comparison[orig_col] != flag_comparison[new_col]]
+            if col in numeric_flag_columns:
+                # For numeric columns, convert to float and use isclose
+                orig_vals = pd.to_numeric(flag_comparison[orig_col], errors='coerce')
+                new_vals = pd.to_numeric(flag_comparison[new_col], errors='coerce')
+                
+                # Find mismatches using numpy's isclose with 0.1 tolerance
+                matches = np.isclose(orig_vals, new_vals, rtol=0.1, atol=0.1, equal_nan=True)
+                mismatches = flag_comparison[~matches]
+            else:
+                # For non-numeric columns, use exact comparison
+                mismatches = flag_comparison[flag_comparison[orig_col] != flag_comparison[new_col]]
             
             for _, row in mismatches.iterrows():
                 flag_diffs.append({
@@ -211,110 +270,238 @@ def compare_datasets(df_original, df_new):
         # If shapes/columns differ this may raise; ignore for now
         pass
 
-    # # Identify numeric columns present in both dataframes (excluding the id_col)
-    # common_columns = list(set(origin_columns).intersection(set(new_columns)))
-    # if id_col in common_columns:
-    #     common_columns.remove(id_col)
+def check_cols(df: pd.DataFrame):
+    numeric_cols = 0
+    string_cols = 0
+    bool_cols = 0
+    other_cols = 0
 
-    # # Determine numeric columns from the intersection
-    # numeric_cols = []
-    # for col in common_columns:
-    #     if pd.api.types.is_numeric_dtype(df_original[col]) and pd.api.types.is_numeric_dtype(df_new[col]):
-    #         numeric_cols.append(col)
+    for col, dtype in df.dtypes.items():
+        if pd.api.types.is_numeric_dtype(dtype):
+            numeric_cols += 1
+        elif pd.api.types.is_string_dtype(dtype):
+            string_cols += 1
+        elif pd.api.types.is_bool_dtype(dtype):
+            bool_cols += 1
+        else:
+            print(f"{col} has dtype {dtype}. Custom handling may be needed.")
+            other_cols += 1
 
-    # print("Numeric columns to compare:", numeric_cols)
+    print(f"\nSummary of column types:"
+          f"\nNumeric columns: {numeric_cols}"
+          f"\nString columns: {string_cols}"
+          f"\nBoolean columns: {bool_cols}"
+          f"\nOther columns: {other_cols}")
 
-    # if not numeric_cols:
-    #     print("No numeric columns found to compare.")
-    #     return
+def numeric_col_check(df: pd.DataFrame, df_compare: pd.DataFrame = None, plot: bool = False, plot_all: bool = False, cols_to_plot: list[str] = None):
+    """Describe numeric columns and optionally plot distributions.
 
-    # Merge the two dataframes on the id column to align rows
-    # merged = pd.merge(df_original[[id_col] + numeric_cols],
-    #                   df_new[[id_col] + numeric_cols],
-    #                   on=id_col,
-    #                   how='outer',
-    #                   suffixes=("_orig", "_new"))
+    If `df_compare` is provided, scatter plots of original vs compare values
+    (aligned by `oaw_id` when present) will also be produced.
+    """
+    numeric_cols = [col for col, dtype in df.dtypes.items() if pd.api.types.is_numeric_dtype(dtype)]
 
-    # # Build a long-form differences list
-    # diffs = []
-    # # tolerance for numeric equality
-    # rtol = 1e-5
-    # atol = 1e-8
+    # If a compare dataframe is provided, restrict to the intersection of
+    # numeric columns present in both dataframes so plots align
+    if df_compare is not None:
+        compare_numeric_cols = [c for c, d in df_compare.dtypes.items() if pd.api.types.is_numeric_dtype(d)]
+        numeric_cols = [c for c in numeric_cols if c in compare_numeric_cols]
 
-    # for col in numeric_cols:
-    #     orig_col = f"{col}_orig"
-    #     new_col = f"{col}_new"
+    df_numeric = df[numeric_cols]
 
-    #     # If the merged frame lacks either column (shouldn't happen) skip
-    #     if orig_col not in merged.columns or new_col not in merged.columns:
-    #         continue
+    descriptions = df_numeric.describe()
 
-    #     orig_vals = merged[orig_col].to_numpy()
-    #     new_vals = merged[new_col].to_numpy()
+    # Prepare merged frame for comparisons if requested
+    merged = None
+    id_col = 'oaw_id'
+    if df_compare is not None and id_col in df.columns and id_col in df_compare.columns:
+        try:
+            # Defensive: if either dataframe has duplicate column labels, try to fix
+            for name, df_tmp in [('df', df), ('df_compare', df_compare)]:
+                dupes = df_tmp.columns[df_tmp.columns.duplicated()].unique()
+                if len(dupes) > 0:
+                    print(f"Warning: duplicate column labels in {name} dataframe: {list(dupes)}")
+                    # If the id_col is duplicated, combine duplicates by taking the
+                    # first non-null value across duplicates, then drop extras.
+                    if id_col in dupes:
+                        cols = [c for c in df_tmp.columns if c == id_col]
+                        df_tmp[id_col] = df_tmp[cols].bfill(axis=1).iloc[:, 0]
+                        df_tmp.drop(columns=cols[1:], inplace=True)
+                    # Drop any remaining duplicate columns, keeping the first occurrence
+                    df_tmp = df_tmp.loc[:, ~df_tmp.columns.duplicated()]
+                    if name == 'df':
+                        df = df_tmp
+                    else:
+                        df_compare = df_tmp
 
-    #     # Compare elementwise, treating NaNs specially: NaN vs NaN considered equal
-    #     for oid, oval, nval in zip(merged[id_col].to_numpy(), orig_vals, new_vals):
-    #         both_nan = pd.isna(oval) and pd.isna(nval)
-    #         if both_nan:
-    #             continue
+            merged = pd.merge(
+                df[[id_col] + numeric_cols],
+                df_compare[[id_col] + numeric_cols],
+                on=id_col,
+                how='inner',
+                suffixes=("_orig", "_cmp")
+            )
+        except Exception as e:
+            print(f"Warning: could not create merged comparison frame: {e}")
 
-    #         # If either is NaN and the other is not, that's a difference
-    #         if pd.isna(oval) != pd.isna(nval):
-    #             diffs.append({"id": oid, "column": col, "orig": oval, "new": nval, "diff": None})
-    #             continue
+    if plot:
+        if plot_all:
+            # Save all numeric column distributions (and optional comparison
+            # scatter plots) into a single multi-page PDF
+            pdf_path = "numeric_distributions.pdf"
+            with PdfPages(pdf_path) as pdf:
+                # Histograms for the original dataframe
+                for col in numeric_cols:
+                    fig, ax = plt.subplots()
+                    sns.histplot(df_numeric[col].dropna(), kde=True, ax=ax)
+                    ax.set_title(f'Distribution of {col} (original)')
+                    ax.set_xlabel(col)
+                    ax.set_ylabel('Frequency')
+                    plt.tight_layout()
+                    pdf.savefig(fig)
+                    plt.close(fig)
 
-    #         # Both not NaN: numeric compare
-    #         try:
-    #             are_close = np.isclose(oval, nval, rtol=rtol, atol=atol)
-    #         except Exception:
-    #             # If comparison fails for any reason, record as difference
-    #             are_close = False
+                # If comparison dataframe provided and merged frame exists,
+                # produce scatter plots aligned by id
+                if merged is not None:
+                    for col in numeric_cols:
+                        fig, ax = plt.subplots()
+                        x = merged[f"{col}_orig"].to_numpy()
+                        y = merged[f"{col}_cmp"].to_numpy()
+                        ax.scatter(x, y, alpha=0.6, s=10)
+                        # Add 1:1 line for reference
+                        try:
+                            mn = min(np.nanmin(x), np.nanmin(y))
+                            mx = max(np.nanmax(x), np.nanmax(y))
+                            ax.plot([mn, mx], [mn, mx], color='red', linestyle='--')
+                        except Exception:
+                            pass
+                        ax.set_title(f'Comparison of {col}: original vs compare')
+                        ax.set_xlabel('original')
+                        ax.set_ylabel('compare')
+                        plt.tight_layout()
+                        pdf.savefig(fig)
+                        plt.close(fig)
 
-    #         if not are_close:
-    #             diffs.append({"id": oid, "column": col, "orig": oval, "new": nval, "diff": (nval - oval)})
+            print(f"Saved all numeric distribution and comparison plots to {pdf_path}")
+        else:
+            if cols_to_plot is None:
+                cols_to_plot = numeric_cols[:5]  # Default to first 5 numeric columns
+            for col in cols_to_plot:
+                if col in numeric_cols:
+                    plt.figure()
+                    sns.histplot(df_numeric[col].dropna(), kde=True)
+                    plt.title(f'Distribution of {col}')
+                    plt.xlabel(col)
+                    plt.ylabel('Frequency')
+                    plt.show()
 
-    # diffs_df = pd.DataFrame(diffs)
+                    # If compare_df provided and merged exists, show a scatter for this column
+                    if merged is not None:
+                        plt.figure()
+                        plt.scatter(merged[f"{col}_orig"], merged[f"{col}_cmp"], alpha=0.6, s=10)
+                        try:
+                            mn = min(merged[f"{col}_orig"].min(), merged[f"{col}_cmp"].min())
+                            mx = max(merged[f"{col}_orig"].max(), merged[f"{col}_cmp"].max())
+                            plt.plot([mn, mx], [mn, mx], color='red', linestyle='--')
+                        except Exception:
+                            pass
+                        plt.title(f'Comparison of {col}: original vs compare')
+                        plt.xlabel('original')
+                        plt.ylabel('compare')
+                        plt.show()
 
-    # if diffs_df.empty:
-    #     print("No numeric differences found for any id and numeric column.")
-    # else:
-    #     # Summary: counts per column and total
-    #     total_diffs = len(diffs_df)
-    #     by_column = diffs_df.groupby('column').size().to_dict()
-    #     print(f"Found {total_diffs} numeric differences across ids.")
-    #     print("Differences by column:", by_column)
-    #     # Show a sample of differences (up to 20 rows)
-    #     print("Sample differences:\n", diffs_df.head(20).to_string(index=False))
+    return descriptions
 
-    #     # Create visualizations of the differences
-    #     plt.figure(figsize=(15, 10))
-        
-    #     # 1. Create a bar plot of difference counts by column
-    #     diff_counts = diffs_df['column'].value_counts().reset_index()
-    #     diff_counts.columns = ['column', 'count']
-    #     plt.subplot(2, 1, 1)
-    #     ax = sns.barplot(data=diff_counts, x='column', y='count')
-    #     # Add value labels on top of bars
-    #     for i in ax.containers:
-    #         ax.bar_label(i)
-    #     plt.xticks(rotation=45)
-    #     plt.title('Number of Differences by Column')
-    #     plt.xlabel('Column')
-    #     plt.ylabel('Count of Differences')
-        
-    #     # 2. Create boxplots of difference distributions
-    #     plt.subplot(2, 1, 2)
-    #     # Filter out None values from diff column
-    #     plot_diffs = diffs_df[diffs_df['diff'].notna()]
-    #     if not plot_diffs.empty:
-    #         sns.boxplot(data=plot_diffs, x='column', y='diff')
-    #         plt.xticks(rotation=45)
-    #         plt.title('Distribution of Differences by Column')
-    #         plt.xlabel('Column')
-    #         plt.ylabel('Difference (new - original)')
-        
-    #     plt.tight_layout()
-    #     plt.show()
+def numeric_col_plot_comparison(df_new: pd.DataFrame, df_original: pd.DataFrame):
+    numeric_cols = [col for col, dtype in df_new.dtypes.items() if pd.api.types.is_numeric_dtype(dtype)]
+
+    pdf_path = "numeric_distributions_comparison.pdf"
+    with PdfPages(pdf_path) as pdf:
+        # Helper to coerce common non-numeric placeholders to NaN and convert to numeric
+        def clean_numeric_series(s: pd.Series) -> pd.Series:
+            if s is None:
+                return s
+            # Convert to string, lowercase and strip to detect placeholders
+            s_str = s.astype(str).str.strip()
+            toks = ['no data', 'no_data', 'n/a', 'na', '-', 'none', 'n\a']
+            s_str_lower = s_str.str.lower()
+            mask = s_str_lower.isin(toks)
+            s_str.loc[mask] = np.nan
+            return pd.to_numeric(s_str, errors='coerce')
+
+        for col in numeric_cols:
+            fig, axes = plt.subplots(1, 2, figsize=(10, 4), sharey=True)
+            try:
+                orig_series = clean_numeric_series(df_original[col])
+                new_series = clean_numeric_series(df_new[col])
+
+                plotted = False
+                if orig_series.dropna().size > 0:
+                    sns.histplot(orig_series.dropna(), kde=True, color='skyblue', ax=axes[0])
+                    plotted = True
+                axes[0].set_title(f'Original: {col}')
+                axes[0].set_xlabel(col)
+                axes[0].set_ylabel('Frequency')
+
+                if new_series.dropna().size > 0:
+                    sns.histplot(new_series.dropna(), kde=True, color='salmon', ax=axes[1])
+                    plotted = True
+                axes[1].set_title(f'New: {col}')
+                axes[1].set_xlabel(col)
+                axes[1].set_ylabel('')
+
+                # If neither side had numeric data, skip saving this page
+                if not plotted:
+                    plt.close(fig)
+                    continue
+
+                plt.tight_layout()
+                pdf.savefig(fig)
+                plt.close(fig)
+            except Exception as e:
+                plt.close('all')
+                print(f"Warning: skipping numeric plot for {col} due to error: {e}")
+                continue
+
+    print(f"Saved side-by-side comparison plots to {pdf_path}")
+
+def categoric_col_plot_comparison(df_new: pd.DataFrame, df_original: pd.DataFrame):
+    # Select only non-numeric columns
+    categoric_cols = [col for col in df_new.columns if not pd.api.types.is_numeric_dtype(df_new[col])]
+
+    pdf_path = "categorical_distributions_comparison.pdf"
+    with PdfPages(pdf_path) as pdf:
+        for col in categoric_cols:
+            if col not in df_original.columns:
+                continue  # skip if missing in one df
+
+            fig, ax = plt.subplots(figsize=(8, 5))
+
+            # Value counts normalized to proportions
+            orig_counts = df_original[col].value_counts(normalize=True)
+            new_counts = df_new[col].value_counts(normalize=True)
+
+            # Combine for consistent categories
+            all_categories = sorted(set(orig_counts.index).union(new_counts.index))
+            orig_counts = orig_counts.reindex(all_categories, fill_value=0)
+            new_counts = new_counts.reindex(all_categories, fill_value=0)
+
+            # Plot bars
+            x = range(len(all_categories))
+            ax.bar(x, orig_counts, width=0.4, label="Original", align='center', alpha=0.7)
+            ax.bar([i + 0.4 for i in x], new_counts, width=0.4, label="New", align='center', alpha=0.7)
+
+            ax.set_xticks([i + 0.2 for i in x])
+            ax.set_xticklabels(all_categories, rotation=45, ha='right')
+            ax.set_title(f'Category Distribution Comparison: {col}')
+            ax.set_ylabel('Proportion')
+            ax.legend()
+            plt.tight_layout()
+            pdf.savefig(fig)
+            plt.close(fig)
+
+    print(f"Saved categorical comparison plots to {pdf_path}")
 
 if __name__ == "__main__":
     main()
